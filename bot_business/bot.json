@@ -1,0 +1,17 @@
+{
+  "name": "Virtual Numbers Bot",
+  "description": "Virtual numbers bot converted from PHP to BJS for Bot Business platform.",
+  "version": "2.0.0",
+  "token": "7664564811:AAGM8C7CK2Hjo69n795W85TfmDBuH_9mfb8",
+  "admin_id": "8338869162",
+  "site_ids": {
+    "herosms": "1513844",
+    "5sim": "4437001"
+  },
+  "commands": [
+    {
+      "command": "/start",
+      "file": "_start.js"
+    }
+  ]
+}
